@@ -1,0 +1,4 @@
+package game
+
+object CheckersDisplay {
+}
